@@ -1,4 +1,4 @@
-package map;
+package collections.map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -10,7 +10,7 @@ public class TestMap {
     public static void main(String[] args) {
         Map<Integer, String> hashMap = new HashMap<>(); // order is NOT guaranteed
         Map<Integer, String> linkedHashMap = new LinkedHashMap<>(); // order is guaranteed
-        Map<Integer, String> treeMap = new TreeMap<>(); // sorted by key (criteria for sorting should be set)
+        Map<Integer, String> treeMap = new TreeMap<>(); // sorted by key (criteria for collections.sorting should be collections.set)
 
         testMap(hashMap);
         testMap(linkedHashMap);

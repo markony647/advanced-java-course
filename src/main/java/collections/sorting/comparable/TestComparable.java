@@ -1,4 +1,4 @@
-package sorting.comparable;
+package collections.sorting.comparable;
 
 import java.util.*;
 

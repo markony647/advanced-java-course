@@ -1,4 +1,4 @@
-package set;
+package collections.set;
 
 import java.util.*;
 
