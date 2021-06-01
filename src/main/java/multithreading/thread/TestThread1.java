@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.thread;
 
 public class TestThread1 {
 

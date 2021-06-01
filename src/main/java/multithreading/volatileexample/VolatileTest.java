@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.volatileexample;
 
 import java.util.Scanner;
 
